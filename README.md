@@ -1,2 +1,2 @@
 -> This project establishes a client-server connection using sockets and a port number.
--> It explains how to send image from the client on the button click to the server.
+-> It explains how to send image from the client on button click to the server.
